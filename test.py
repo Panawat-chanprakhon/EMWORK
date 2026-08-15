@@ -1,0 +1,1 @@
+print("EMWORK test ready")
